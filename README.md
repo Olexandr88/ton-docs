@@ -10,7 +10,7 @@ Contribution guidelines: [How to contribute](https://docs.ton.org/v3/contribute)
 
 TON Documentation is entirely open source. Community enthusiasts and early TON contributors have played a key role in creating this open-source TON documentation by turning their notes into detailed pages.
 
-It was initially written by TON [contributors](/v3/contribute/maintainers/) and supported by [TON Studio](https://tonstudio.io/).
+It was initially written by TON [contributors](#Contributors-wall) and supported by [TON Studio](https://tonstudio.io/).
 
 ---
 
